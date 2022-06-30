@@ -17,7 +17,7 @@
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/fahim" title="Dollow">Follow Me For Updates</a></b>
 
 <p align="center">
     <a href="https://github.com/Aadhi000/File-To-Link">
@@ -36,7 +36,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fahim/File-To-Link)
 
 
 🚀Features<p>
